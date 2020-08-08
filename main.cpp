@@ -2,8 +2,8 @@
 //  P2.cpp
 //  Hotel Management System
 //
-//  Created by Sukrit Bagaria on 08/08/20.
-//  Copyright © 2020 Sukrit Bagaria. All rights reserved.
+//  Created by Suman Patel and Sukrit Bagaria on 08/08/20.
+//  Copyright © 2020 Suman Patel and Sukrit Bagaria. All rights reserved.
 //
 
 
@@ -422,7 +422,7 @@ void Hm::searchCustomer(char *fname,char *lname){
 
 void mainMenu(){
     Hm hm;
-    cout << "Welcome to Bachelor's Paradise\n" << endl;
+    cout << "Welcome to Monkey's Island\n" << endl;
     int menu,roomnumber,input;
     char fname[20];
     char lname[20];

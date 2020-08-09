@@ -2,7 +2,7 @@
 //  P2.cpp
 //  Hotel Management System
 //
-//  Created by Suman Patel and Sukrit Bagaria on 08/08/20.
+//  Created by Sukrit Bagaria on 08/08/20.
 //  Copyright © 2020 Suman Patel and Sukrit Bagaria. All rights reserved.
 //
 

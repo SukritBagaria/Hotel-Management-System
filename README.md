@@ -1,7 +1,7 @@
 # Hotel-Management-System
-Hotel room and guest management system using Object Oriented programming and CSV file handling concepts in C++
+Hotel room and guest management system with 2 different versions: one based on CSV file handling in C++ and one based on MySQL for C++.
 
-- An easy to use system that can be used by anyone with minimal training.
+- Easy to use system that can be used by anyone with minimal training.
 - Functionalitites include:
   1. Adding or modifying rooms.
   2. Searching for unoccupied rooms.
@@ -13,3 +13,4 @@ Hotel room and guest management system using Object Oriented programming and CSV
   But this model had a major issue that whenever we compile the program all the old data is lost. 
 - To improve on the model, for the next iteration CSV file handling concepts are used to store data so that we are able to store data permenantly.
 - Using CSV files to store data also made the data more readble.
+- To improve the program further for large use cases like hotel chains, the data management system was changed to a MySQL server. 

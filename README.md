@@ -14,3 +14,6 @@ Hotel room and guest management system with 2 different versions: one based on C
 - To improve on the model, for the next iteration CSV file handling concepts are used to store data so that we are able to store data permenantly.
 - Using CSV files to store data also made the data more readble.
 - To improve the program further for large use cases like hotel chains, the data management system was changed to a MySQL server. 
+
+Entity Relationship model(ER model) for database used in MYSQL :-
+

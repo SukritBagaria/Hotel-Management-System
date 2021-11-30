@@ -17,3 +17,6 @@ Hotel room and guest management system with 2 different versions: one based on C
 
 Entity Relationship model(ER model) for database used in MYSQL :-
 
+![alt text](https://github.com/SukritBagaria/Hotel-Management_System/blob/master/ER_Model.png?raw=true)
+
+
